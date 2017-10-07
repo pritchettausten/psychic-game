@@ -1,0 +1,16 @@
+
+
+body {
+	text-align: center;
+	background: url(../images/8RojoiY.gif);
+	background-size: 112%;
+}
+
+.body {
+	font-family: 'Press Start 2P', cursive;
+	color: white;
+	margin-top: 60px;
+}
+.btn-xs {
+	margin-bottom: 20px;
+}
